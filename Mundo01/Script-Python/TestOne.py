@@ -1,0 +1,5 @@
+Name=input('What is your name? ')
+Age=input('How old are you? ')
+Weight=input('What is your weight? ')
+Gender=input('What is your gender? ')
+print('Name:', Name,',Age:', Age,',Weight:', Weight,',Gender:', Gender)
